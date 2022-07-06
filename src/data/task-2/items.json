@@ -1,0 +1,36 @@
+[
+    {
+        "id": "01",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    },
+    {
+        "id": "02",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    },
+    {
+        "id": "03",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    },
+    {
+        "id": "04",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    },{
+        "id": "05",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    },{
+        "id": "06",
+        "url": "https://loremflickr.com/640/360",
+        "title": "Post item title",
+        "text": "Post item text"
+    }
+]

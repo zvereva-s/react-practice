@@ -1,0 +1,12 @@
+.post-list-title {
+    text-align: center;
+}
+.post-list {
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}

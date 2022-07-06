@@ -1,0 +1,27 @@
+.btn {
+    width: 189px;
+    min-height: 39px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 2px;
+}
+.dark {
+    composes: btn;
+
+    background: #111B47;
+    color: white;
+}
+.light {
+    composes: btn;
+    background-color: white;
+    border-color: #091133;
+    color: #091133;
+}

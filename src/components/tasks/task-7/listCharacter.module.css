@@ -1,0 +1,21 @@
+.list{
+    list-style: none;
+    width: 30%;
+}
+.item{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    margin: 0;
+    margin-left: 30px;
+    height: 30px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+.btn:hover, .btn:focus{
+    background-color: black;
+    color: white;
+}

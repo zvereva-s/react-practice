@@ -1,0 +1,21 @@
+.list {
+    list-style: none;
+    display: flex;
+}
+.item { 
+    color: rgb(57, 16, 96);
+    padding: 10px;
+    font-size: 12px;
+    border: 1px solid rgba(227, 64, 230, 0.165);
+    border-top: transparent;
+    border-bottom: transparent;
+    cursor: pointer;
+}
+.itemActive{
+    composes: item;
+    background-color: rgb(57, 16, 96);
+    color:white;
+}
+.content {
+    padding: 4px;
+}

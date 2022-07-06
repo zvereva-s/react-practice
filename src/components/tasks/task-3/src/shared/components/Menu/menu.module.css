@@ -1,0 +1,25 @@
+.list {
+    display: flex;
+    align-items: center;
+
+    list-style: none;
+    
+    padding: 0;
+}
+
+.item:not(:last-child) {
+    margin-right: 60px;
+}
+
+.link {
+    text-decoration: none;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+
+    color: #505F98;
+}

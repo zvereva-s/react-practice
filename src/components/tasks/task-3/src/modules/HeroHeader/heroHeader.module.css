@@ -1,0 +1,9 @@
+.heroHeader{
+    width: 1140px;
+    margin: 0 auto;
+
+    background-image: url('../../images/backImg.png');
+    background-repeat: no-repeat;
+    background-size: 1023px 1112px;
+    background-position: 70% 0%;
+}

@@ -1,0 +1,37 @@
+.hero{
+        padding-top: 261px;
+        padding-bottom: 388px;
+}
+.title {
+        width: 540px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 50px;
+        line-height: 66px;
+    
+        letter-spacing: 1px;
+    
+    
+        color: #091133;
+}
+.text{
+        width: 540px;
+        margin-top: 20px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+    
+        color: #505F98;
+}
+.btns {
+        display: flex;
+        justify-content: space-between;
+
+        width: 410px;
+        margin-top: 70px;
+}
